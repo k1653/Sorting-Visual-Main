@@ -13,7 +13,7 @@ const Footer = (props) => {
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Prerna Priya
+          Prerna_Priya
         </a>
         <section className="Footer__Items">
         <a
